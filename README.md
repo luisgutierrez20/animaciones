@@ -1,2 +1,3 @@
 # animaciones
-ejemplos de como utulizar animaciones en 2D
+ejemplos de como utilizar animaciones en 2D
+ejemplo de como cear un repositorio
